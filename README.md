@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UpNext AI - Smart Career Assistant 🚀
 
 A modern, AI-powered career assistant platform that helps users analyze their resumes, find relevant job opportunities, and plan their career growth using advanced Machine Learning and Natural Language Processing.
@@ -374,3 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ by Paras** | © 2025 UpNext AI - Smart Career Assistant
+=======
+# UpNextAI-Portfolio
+Collaborative full-stack project focused on AI and user-friendly design
+>>>>>>> eb23dfbe604acb47c6a92bf6c6f9dbfde95b8e00
